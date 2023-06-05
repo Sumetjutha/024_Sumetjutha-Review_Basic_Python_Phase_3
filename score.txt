@@ -1,7 +1,6 @@
-Hello World
-สวัสดีชาวโลก
-สวัสดีรัฐบาลใหม่good
-good
-good
-good
-good
+s01	50
+s02	70
+s03	65
+s04	80
+s05	40
+s06	100
