@@ -1,3 +1,3 @@
-import CalculateService
+import CalculateService as CAL
 
-CalculateService.subtraction(20,10)
+CAL.subtraction(20,10)

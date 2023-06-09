@@ -1,6 +1,17 @@
 # โปรแกรมหลัก
-import CalculateService
+import CalculateService as C
+import Weather as W
 
-CalculateService.addition(5,10,20)
+C.addition(5,10,20)
 
-print(CalculateService.PI)
+print(C.PI)
+
+#แสดงสภาพอากาศจังหวัดระยอง
+result_Rayong = W.city["ระยอง"]
+print(result_Rayong)
+
+#แสดงผลทุกๆจังหวัด
+W.getWeather()
+
+#หาค่าเลขยกกำลัง
+C.power(5,2)

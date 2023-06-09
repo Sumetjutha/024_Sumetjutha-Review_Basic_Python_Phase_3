@@ -11,3 +11,5 @@ def addition(*args):
 def subtraction(num1,num2):
     print("ผลลบมีค่าเท่ากับ = ", (num1 - num2))
     
+def power(num1,num2):
+    print(num1**num2)
